@@ -1,0 +1,66 @@
+
+    .form{
+background-color:black;
+    width: 400px;
+    height:600px;
+   margin:auto;}
+
+.name{
+        font-weight:bolder;
+        text-decoration:underline solid green;
+    }
+h1{
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    
+
+}
+h1{
+    cursor: pointer;
+}
+
+.hii{
+color: aliceblue;
+
+}
+button{
+    width:100%;
+    height:6%;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
+a{
+    color: blue;
+    margin-right:70%;
+    cursor: pointer;
+}
+h4{
+    background-color: green;
+    height:4%;
+    color: aliceblue;
+    width:max-content;
+    margin-left:130px;
+    text-align: center;
+    cursor: pointer;
+}
+h5{
+    color: white;
+    margin-left:25px;
+}
+input{
+    width:390px;
+}
+.nep{
+    color:blue;
+    cursor: pointer;
+}
+.hindi{
+    color: blue;
+    cursor: pointer;
+}
+.more{
+    color: blue;
+    cursor: pointer;
+}
